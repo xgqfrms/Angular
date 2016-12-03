@@ -1,4 +1,4 @@
-# Angular2 (TypeScript + AngularJS2)
+# Angular 2 (TypeScript + Angular2)
 
 
 [https://xgqfrms.github.io/Angular2/](https://xgqfrms.github.io/Angular2/)
@@ -15,7 +15,7 @@
 [![Downloads](http://img.shields.io/npm/dm/angular2.svg)](https://npmjs.org/package/angular2)
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
-Angular 
+Angular 2
 =========
 
 Angular is a development platform for building mobile and desktop web applications. This is the
