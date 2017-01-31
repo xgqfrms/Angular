@@ -1,7 +1,7 @@
 # Angular 2 (TypeScript + Angular2)
 
 
-[https://xgqfrms.github.io/Angular2/](https://xgqfrms.github.io/Angular2/)
+[https://xgqfrms.github.io/Angular/](https://xgqfrms.github.io/Angular/)
 
 
 
